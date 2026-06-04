@@ -10,6 +10,5 @@
 
 ## Tentang Saya
 Saya cuma ingin:
-- Bersenang-senang  
+- tidak melakukan apa-apa
 - Tidak membuat project
-- Star repo yang bagus  
